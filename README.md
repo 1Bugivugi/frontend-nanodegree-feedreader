@@ -29,7 +29,7 @@ I'm planning to upgrade this project when I'll finish the Nanodegree, so keep an
 ## External Code Used in this Project
 
 The starter code for this project was provided by Udacity.
-I also coded along to Mohamed Riaad's Study Jam[https://www.youtube.com/watch?v=Ut_L8YUImbw&feature=youtu.be&t=1]
+I also coded along to Mohamed Riaad's Study Jam - https://www.youtube.com/watch?v=Ut_L8YUImbw&feature=youtu.be&t=1
 
 ## Credits
 
