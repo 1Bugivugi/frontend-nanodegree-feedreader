@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-* [Project Overview](#Project Overview)
+* [Project Overview](#ProjectOverview)
 * [Instructions](#instructions)
 * [Usage](#usage)
 * [Future Updates](#FutureUpdates)
