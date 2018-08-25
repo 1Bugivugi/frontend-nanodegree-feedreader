@@ -20,7 +20,7 @@ To run the feed reader tests, scroll down to the bottom of the page and click on
 
 ## Usage
 
-You can either clone this repository to your local machine with $git clone https://github.com/1Bugivugi/frontend-nanodegree-feedreader.git or you can open it directly in your browser clicking this link - https://1bugivugi.github.io/frontend-nanodegree-feedreader/
+You can either clone this repository to your local machine with $git clone https://github.com/1Bugivugi/frontend-nanodegree-feedreader.git / download a zip file and open index.html in your browser or you can open it directly in your browser clicking this link - https://1bugivugi.github.io/frontend-nanodegree-feedreader/
 
 ## Future Updates
 
